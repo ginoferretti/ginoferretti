@@ -5,7 +5,11 @@
 - ⚡ Fun fact: You can call me BROgrammer
 * 📫 How to reach me:
     * [LinkedIn](https://www.linkedin.com/in/andrea-cadeddu)
+
+
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginoferretti)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginoferretti)](https://github.com/ginoferretti/github-readme-stats)
 
 <!--

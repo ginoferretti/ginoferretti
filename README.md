@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning anything I like
 - ⚡ Fun fact: You can call me BROgrammer
 * 📫 How to reach me:
-    * [LinkedIn](https://www.linkedin.com/in/andrea-cadeddu)
+    * [LinkedIn](https://www.linkedin.com/in/ginoferretti)
 
 
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginoferretti)

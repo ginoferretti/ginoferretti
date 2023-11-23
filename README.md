@@ -1,6 +1,6 @@
 ### Hi there, I am Gino Ferretti 👋
 
-- 🔭 I’m currently working on becoming a data scientist
+- 🔭 I’m currently working as a data scientist @Eni Spa
 - 🌱 I’m currently learning anything I like
 - ⚡ Fun fact: You can call me BROgrammer
 * 📫 How to reach me:
